@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.header-bar {
+    position: relative;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    width: 60%;
+    height: 90px;
+    left: 18%;
+    padding-left: 30px;
+    background-color: #424249;
+    
+}
+
+.piggy-bank {
+    height: 60px;
+    width: 60px;
+    
+}
